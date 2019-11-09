@@ -4,7 +4,7 @@
   "description": "social network API",
   "main": "server.js",
   "scripts": {
-    "test": "jasmine",
+    "test": "npm jasmine",
     "start:dev": "nodemon --exec babel-node backend/server.js"
   },
   "repository": {
