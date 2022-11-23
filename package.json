@@ -31,7 +31,7 @@
     "eslint": "^6.6.0",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.18.2",
-    "karma": "^4.4.1",
+    "karma": "^6.4.1",
     "nodemon": "^1.19.4"
   },
   "dependencies": {
